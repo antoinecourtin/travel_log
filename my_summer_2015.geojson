@@ -11,7 +11,8 @@
         ]
       },
       "properties": {
-        "Location": "Nieuwe Prinsengracht, Amsterdam",
+        "Location": "Nieuwe TTOTO, Amsterdam",
+        "Motif" : "test antoine",
         "Remarks": "Departure",
         "Arrival date": "2015-06-27",
         "Departure date": "2015-06-27"
